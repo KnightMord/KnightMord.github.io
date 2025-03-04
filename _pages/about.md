@@ -22,3 +22,7 @@ redirect_from:
 
 [我的部分个人项目简介](https://knightmord.github.io/year-archive/)（或点击界面上方页签！）
 -----
+
+
+
+![Mord](/images/PacitoMord_grey.png "Mord")
