@@ -13,10 +13,12 @@ redirect_from:
 
 [我的B站主页](https://space.bilibili.com/22823633?spm_id_from=333.1007.0.0)
 -----
+主要发表游戏和OC有关的内容，偶尔皮套开播
 
 
-[我的steam主页](https://steamcommunity.com/id/mordkaiser/)
+[我的Steam主页](https://steamcommunity.com/id/mordkaiser/)
 -----
+好友码：285476974
 
 
 [我的部分个人项目简介](https://knightmord.github.io/year-archive/)（或点击界面上方页签！）
