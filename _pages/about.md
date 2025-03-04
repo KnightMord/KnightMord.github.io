@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "互联网骑士_莫德："
 author_profile: true
 redirect_from: 
   - /about/
@@ -7,8 +8,6 @@ redirect_from:
 ---
 
 
-互联网骑士_莫德：
------
 游戏爱好者，喜欢直播稀奇古怪的游戏，（自封的）专业游戏鉴赏家，（未来的）资深游戏开发，（艾泽拉斯的）救世主
 
 
