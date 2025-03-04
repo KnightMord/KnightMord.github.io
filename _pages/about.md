@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "互联网骑士_莫德："
+title: "互联网骑士_莫德"
 author_profile: true
 redirect_from: 
   - /about/
